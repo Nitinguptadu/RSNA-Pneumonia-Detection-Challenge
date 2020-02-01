@@ -24,7 +24,7 @@ preposessing.ipynb is the file to preprocessing the  (stage_2_train_labels.csv )
 frcnn_train_vgg.ipynb is the file to train the model. The configuration and model saved path are inside this file. frcnn_test_vgg.ipynb is the file to test the model with test images and calculate the mAP (mean average precision) for the model. 
 
 
-for training we have used GTX 1650 with 4 gb ram and for 40 epoch it's taken 60 hours approx 
+for training we have used GTX 1650 with 4 gb ram and for 40 epoch it's taken 60 hours approx and  MPA score is 0.16 due to less amount of data and base model (vgg-16 ) is not trained on such type of x ray image 
 
 
 Base Model Vgg16 
