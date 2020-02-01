@@ -40,6 +40,8 @@ dowload the config file https://drive.google.com/drive/folders/1xAtIsB7YJc8g2P7D
 
 
 
+
+
 You can dowload the data set from kaggle compition 
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
 
