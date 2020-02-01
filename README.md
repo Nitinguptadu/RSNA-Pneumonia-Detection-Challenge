@@ -35,8 +35,12 @@ Its a one stage  faster rcnn tranning  model
 
 download the pretrain model https://drive.google.com/drive/folders/1TRzPLZEmjFHCvXlJt65SWSzsoj0yQIi3
 
+dowload the config file https://drive.google.com/drive/folders/1xAtIsB7YJc8g2P7DmvNr2dqtqzE1gMN_
+
 
 
 
 You can dowload the data set from kaggle compition 
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+
+
