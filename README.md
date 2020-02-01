@@ -46,4 +46,12 @@ You can dowload the data set from kaggle compition
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
 
 
-![test](https://user-images.githubusercontent.com/45600643/73590036-b14c2f80-4503-11ea-9ff5-ce76204941c6.png)
+Evaluation
+The training loss on the region proposal network and the Faster R-CNN core network is shown below. The results are evaluated on the mean average precision at the different intersection over union (IoU) thresholds. 
+
+![x ray](https://user-images.githubusercontent.com/45600643/73590123-a80f9280-4504-11ea-890e-b8b9630ac0cd.png)
+
+![x ray_2](https://user-images.githubusercontent.com/45600643/73590132-b52c8180-4504-11ea-906c-7c2e1f395ac8.png)
+
+
+
