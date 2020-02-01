@@ -32,5 +32,11 @@ Base Model Vgg16
 Its a one stage  faster rcnn tranning  model 
 
 
+
+download the pretrain model https://drive.google.com/drive/folders/1TRzPLZEmjFHCvXlJt65SWSzsoj0yQIi3
+
+
+
+
 You can dowload the data set from kaggle compition 
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
