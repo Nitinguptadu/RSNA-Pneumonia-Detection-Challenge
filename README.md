@@ -46,3 +46,4 @@ You can dowload the data set from kaggle compition
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
 
 
+![test](https://user-images.githubusercontent.com/45600643/73590036-b14c2f80-4503-11ea-9ff5-ce76204941c6.png)
