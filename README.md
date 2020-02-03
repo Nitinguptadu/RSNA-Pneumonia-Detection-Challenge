@@ -39,9 +39,9 @@ Its a one stage  faster rcnn tranning  model
 
 
 
-download the pretrain model https://drive.google.com/drive/folders/1TRzPLZEmjFHCvXlJt65SWSzsoj0yQIi3
+download the pretrain model https://drive.google.com/open?id=1ETaNh2xfvJLscfSVPMjCfOLIEtFpCj60
 
-dowload the config file https://drive.google.com/drive/folders/1xAtIsB7YJc8g2P7DmvNr2dqtqzE1gMN_
+dowload the config file https://drive.google.com/open?id=1Vo9c1jbMnSDDOdRSrYAOSreczWHCFq3T
 
 
 
